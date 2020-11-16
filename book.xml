@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+<heading>書單詳情</heading>
+<book>
+<title>書名：百花</title>
+<author>作者：川村元氣</author>
+<author>譯者： 王蘊潔</author>
+<publisher>出版社：皇冠</publisher>
+<price>$300</price>
+</book>
+<book>
+<title>書名：漣漪的夜晚</title>
+<author>作者：木皿泉</author>
+<author>譯者： 楊明綺</author>
+<publisher>出版社：悅知文化</publisher>
+<price>$284</price>
+</book>
+<book>
+<title>書名：燃燒的玫瑰</title>
+<author>作者： 皮耶‧勒梅特 </author>
+<author>譯者： 繆詠華</author>
+<publisher>出版社：時報出版  </publisher>
+<price>$356</price>
+</book>
+<book>
+<title>書名：消失的吹哨人</title>
+<author>作者： 珍．哈珀</author>
+<author>譯者： 尤傳莉</author>
+<publisher>出版社：春天出版社</publisher>
+<price>$332</price>
+</book>
+<book>
+<title>書名：我們的家</title>
+<author>作者： 露易絲‧康德黎</author>
+<author>譯者： 甘鎮隴</author>
+<publisher>出版社：尖端</publisher>
+<price>$332</price>
+</book>
+<book>
+<title>書名：人生複本</title>
+<author>作者： 布萊克．克勞奇</author>
+<author>譯者： 顏湘如</author>
+<publisher>出版社：寂寞</publisher>
+<price>$308</price>
+</book>
+<book>
+<title>書名：目擊者</title>
+<author>作者： 林伍德‧巴克萊</author>
+<author>譯者： 李麗珉</author>
+<publisher>出版社：春天出版社</publisher>
+<price>$400</price>
+</book>
+<book>
+<title>書名：忘憂音樂盒</title>
+<author>作者： 瀧羽麻子</author>
+<author>譯者： 邱香凝</author>
+<publisher>出版社：采實文化</publisher>
+<price>$253</price>
+</book>
+<book>
+<title>書名：山茶花文具店</title>
+<author>作者： 小川糸</author>
+<author>譯者： 王蘊潔</author>
+<publisher>出版社：圓神</publisher>
+<price>$269</price>
+</book>
+</books>
